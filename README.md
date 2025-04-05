@@ -1,4 +1,6 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# Welcome to mangabyte's demo respository
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+Este repositório tem o objetivo de ser um template para novos projetos
+da organização, servindo de utilidade para todos os alunos da turma.
+
+Para mais informações sobre como utilizar git, github e etc, vá em [dev_tips.md](./dev_tips.md)
